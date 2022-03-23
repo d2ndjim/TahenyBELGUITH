@@ -12,8 +12,13 @@
 
 
 ## ABOUT ME
-I am Self Starter & Quick Learner, Passionate about Coding & Technology as well as shipping my ideas into apps.I Spend most of time coding outstanding projects ...
+- 🔭 I'm currently working on my website, stay tuned!
+- 🌱 I learnt full-stack web development at [Microverse](https://www.microverse.org/)
+- 👯 I’m looking to collaborate on any exciting project
+- 🤔 I’m curious about HTML CSS JS
+- 💬 Ask me about anything books and community building
+- ⚡ Fun fact: I am fascinated by Indian culture and festivals
 
 ## GIT STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=taheny&&show_icons=true&count_private=true&theme=radical"/>
+[![TahenyBELGUITH's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahenyBELGUITH&show_icons=true&theme=radical)](https://github.com/TahenyBELGUITH/github-readme-stats)
